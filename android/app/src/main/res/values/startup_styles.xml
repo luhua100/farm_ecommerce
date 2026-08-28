@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Kept outside flutter_native_splash generated styles to prevent a white
+         window if native splash resources are regenerated later. -->
+    <style name="FarmLaunchTheme" parent="@style/LaunchTheme">
+        <item name="android:windowBackground">@drawable/farm_launch_background</item>
+    </style>
+    <style name="FarmNormalTheme" parent="@style/NormalTheme">
+        <item name="android:windowBackground">@drawable/farm_launch_background</item>
+    </style>
+</resources>

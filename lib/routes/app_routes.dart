@@ -1,0 +1,34 @@
+class AppRoutes {
+  static const splash = '/';
+  static const main = '/main';
+  static const home = '/home';
+  static const category = '/category';
+  static const cart = '/cart';
+  static const mine = '/mine';
+  static const login = '/login';
+  static const search = '/search';
+  static const productList = '/product-list';
+  static const productDetail = '/product-detail';
+  static const orderList = '/order-list';
+  static const orderDetail = '/order-detail';
+  static const payment = '/payment';
+  static const address = '/address';
+  static const addressEdit = '/address-edit';
+  static const favorites = '/favorites';
+  static const coupons = '/coupons';
+  static const settings = '/settings';
+  static const accountDeletion = '/account-deletion';
+  static const about = '/about';
+  static const reviewCenter = '/review-center';
+  static const review = '/review';
+  static const afterSales = '/after-sales';
+  static const afterSaleDetail = '/after-sale-detail';
+  static const refund = '/refund';
+  static const message = '/message';
+  static const history = '/history';
+  static const logistics = '/logistics';
+  static const brand = '/brand';
+  static const seckill = '/seckill';
+  static const member = '/member';
+  static const webView = '/web-view';
+}
